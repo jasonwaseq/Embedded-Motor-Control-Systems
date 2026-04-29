@@ -1,0 +1,26 @@
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# MPLAB X / NetBeans metadata
+nbproject/private/
+**/nbproject/private/
+
+# Build outputs
+build/
+dist/
+**/build/
+**/dist/
+*.hex
+*.elf
+*.map
+*.lst
+*.o
+*.gch
+*.log
+
+# Temporary files
+*~
+*.swp
